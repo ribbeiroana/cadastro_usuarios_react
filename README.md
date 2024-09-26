@@ -1,8 +1,25 @@
-# React + Vite
+# Documentação do Projeto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Visão Geral
 
-Currently, two official plugins are available:
+Este projeto é uma aplicação de cadastro de usuários, onde é possível adicionar, listar e excluir usuários. Utiliza React como biblioteca principal para a construção da interface, Vite para otimização do desenvolvimento, ESLint para padronização do código, e Axios para o consumo de dados de uma API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
+
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **Vite**: Ferramenta de construção para desenvolvimento rápido.
+- **ESLint**: Ferramenta de linting para garantir a qualidade do código.
+- **Axios**: Biblioteca para realizar requisições HTTP.
+
+## Configuração do Ambiente
+
+1. **Instalação das Dependências**:
+   ```bash
+   npm install
+
+2. Para iniciar a aplicação, utilize o seguinte comando:
+   ```bash
+   npm run dev
+
+A aplicação estará disponível em http://localhost:3000.
+
