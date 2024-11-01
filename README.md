@@ -23,3 +23,6 @@ Este projeto é uma aplicação de cadastro de usuários, onde é possível adic
 
 A aplicação estará disponível em http://localhost:3000.
 
+<div>
+    <img src="./src/assets/tela.png" alt="tela">
+</div>
